@@ -17,6 +17,7 @@
         "eol-last":"off",
         "no-plusplus": "off",
         "no-underscore-dangle": 0,
+        "camelcase":"off",
         "import/no-extraneous-dependencies": ["error", {"devDependencies": false, "optionalDependencies": false, "peerDependencies": false}]
     }
 }
